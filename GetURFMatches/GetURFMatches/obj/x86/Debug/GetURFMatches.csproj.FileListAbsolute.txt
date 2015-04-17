@@ -1,0 +1,4 @@
+C:\Users\Marko\Desktop\GetURFMatches\GetURFMatches\bin\Debug\GetURFMatches.exe
+C:\Users\Marko\Desktop\GetURFMatches\GetURFMatches\bin\Debug\GetURFMatches.pdb
+C:\Users\Marko\Desktop\GetURFMatches\GetURFMatches\obj\x86\Debug\GetURFMatches.exe
+C:\Users\Marko\Desktop\GetURFMatches\GetURFMatches\obj\x86\Debug\GetURFMatches.pdb

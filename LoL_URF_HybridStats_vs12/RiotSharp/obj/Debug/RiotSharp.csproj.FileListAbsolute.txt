@@ -1,0 +1,14 @@
+C:\Users\Marko\Desktop\RiotSharp-master\RiotSharp\bin\Debug\RiotSharp.dll
+C:\Users\Marko\Desktop\RiotSharp-master\RiotSharp\bin\Debug\RiotSharp.pdb
+C:\Users\Marko\Desktop\RiotSharp-master\RiotSharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Marko\Desktop\RiotSharp-master\RiotSharp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Marko\Desktop\RiotSharp-master\RiotSharp\obj\Debug\RiotSharp.csprojResolveAssemblyReference.cache
+C:\Users\Marko\Desktop\RiotSharp-master\RiotSharp\obj\Debug\RiotSharp.dll
+C:\Users\Marko\Desktop\RiotSharp-master\RiotSharp\obj\Debug\RiotSharp.pdb
+C:\Users\Marko\Desktop\LoL_URF_HybridStats_vs12\RiotSharp\bin\Debug\RiotSharp.dll
+C:\Users\Marko\Desktop\LoL_URF_HybridStats_vs12\RiotSharp\bin\Debug\RiotSharp.pdb
+C:\Users\Marko\Desktop\LoL_URF_HybridStats_vs12\RiotSharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Marko\Desktop\LoL_URF_HybridStats_vs12\RiotSharp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Marko\Desktop\LoL_URF_HybridStats_vs12\RiotSharp\obj\Debug\RiotSharp.csprojResolveAssemblyReference.cache
+C:\Users\Marko\Desktop\LoL_URF_HybridStats_vs12\RiotSharp\obj\Debug\RiotSharp.dll
+C:\Users\Marko\Desktop\LoL_URF_HybridStats_vs12\RiotSharp\obj\Debug\RiotSharp.pdb

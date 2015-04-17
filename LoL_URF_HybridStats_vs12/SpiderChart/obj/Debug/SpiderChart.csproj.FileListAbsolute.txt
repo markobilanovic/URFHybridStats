@@ -1,0 +1,12 @@
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\SpiderChart\bin\Debug\WpfCharts.dll
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\SpiderChart\bin\Debug\WpfCharts.pdb
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\SpiderChart\obj\Debug\SpiderChart.csprojResolveAssemblyReference.cache
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\SpiderChart\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\SpiderChart\obj\Debug\WpfCharts_MarkupCompile.cache
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\SpiderChart\obj\Debug\WpfCharts_MarkupCompile.lref
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\SpiderChart\obj\Debug\Themes\Generic.baml
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\SpiderChart\obj\Debug\WpfCharts.g.resources
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\SpiderChart\obj\Debug\WpfCharts.Properties.Resources.resources
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\SpiderChart\obj\Debug\SpiderChart.csproj.GenerateResource.Cache
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\SpiderChart\obj\Debug\WpfCharts.dll
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\SpiderChart\obj\Debug\WpfCharts.pdb

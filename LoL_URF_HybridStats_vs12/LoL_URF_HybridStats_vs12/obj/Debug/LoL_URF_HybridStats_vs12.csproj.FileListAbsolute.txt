@@ -1,0 +1,155 @@
+C:\Users\Marko\Desktop\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\bin\Debug\LoL_URF_HybridStats_vs12.exe.config
+C:\Users\Marko\Desktop\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\bin\Debug\LoL_URF_HybridStats_vs12.exe
+C:\Users\Marko\Desktop\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\bin\Debug\LoL_URF_HybridStats_vs12.pdb
+C:\Users\Marko\Desktop\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12.csprojResolveAssemblyReference.cache
+C:\Users\Marko\Desktop\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\MainWindow.baml
+C:\Users\Marko\Desktop\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\MainWindow.g.cs
+C:\Users\Marko\Desktop\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\App.g.cs
+C:\Users\Marko\Desktop\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12_MarkupCompile.cache
+C:\Users\Marko\Desktop\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12.g.resources
+C:\Users\Marko\Desktop\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12.Properties.Resources.resources
+C:\Users\Marko\Desktop\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12.csproj.GenerateResource.Cache
+C:\Users\Marko\Desktop\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12.exe
+C:\Users\Marko\Desktop\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12.pdb
+C:\Users\Marko\Desktop\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\bin\Debug\RiotSharp.dll
+C:\Users\Marko\Desktop\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Marko\Desktop\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\bin\Debug\RiotSharp.pdb
+C:\Users\Marko\Desktop\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\bin\Debug\Newtonsoft.Json.xml
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\bin\Debug\LoL_URF_HybridStats_vs12.exe.config
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\bin\Debug\LoL_URF_HybridStats_vs12.exe
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\bin\Debug\LoL_URF_HybridStats_vs12.pdb
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\bin\Debug\RiotSharp.dll
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\bin\Debug\Newtonsoft.Json.dll
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\bin\Debug\RiotSharp.pdb
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\bin\Debug\Newtonsoft.Json.xml
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\ChampCard.baml
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\ChampInfoOnMainPage.baml
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\MainWindow.g.cs
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\ChampCard.g.cs
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\ChampInfoOnMainPage.g.cs
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\MainWindowPage.g.cs
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\App.g.cs
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12_MarkupCompile.cache
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12_MarkupCompile.lref
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\MainWindow.baml
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\MainWindowPage.baml
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12.g.resources
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12.Properties.Resources.resources
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12.csproj.GenerateResource.Cache
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12.exe
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12.pdb
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12.csprojResolveAssemblyReference.cache
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\Styles\BlackCrystal.baml
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\ChampionDetails\ChampionInfoPage.baml
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\ChampionDetails\ChampionInfoPage.g.cs
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\BarChart\BarChart.baml
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\BarChart\BarChart.g.cs
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\ChampionDetails\StatsFrame.g.cs
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\ChampionDetails\StatsFrame.baml
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\ChampionDetails\PropertyValueLabel.baml
+D:\LoL_Challange\Project\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\ChampionDetails\PropertyValueLabel.g.cs
+D:\LOL_backup\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\bin\Debug\LoL_URF_HybridStats_vs12.exe.config
+D:\LOL_backup\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12.exe
+D:\LOL_backup\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12.pdb
+D:\LOL_backup\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\bin\Debug\LoL_URF_HybridStats_vs12.exe
+D:\LOL_backup\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\bin\Debug\LoL_URF_HybridStats_vs12.pdb
+D:\LOL_backup\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\bin\Debug\RiotSharp.dll
+D:\LOL_backup\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\bin\Debug\Newtonsoft.Json.dll
+D:\LOL_backup\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\bin\Debug\RiotSharp.pdb
+D:\LOL_backup\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\bin\Debug\Newtonsoft.Json.xml
+D:\LOL_backup\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12.csprojResolveAssemblyReference.cache
+D:\LOL_backup\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\Styles\BlackCrystal.baml
+D:\LOL_backup\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\BarChart\BarChart.baml
+D:\LOL_backup\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\ChampCard.baml
+D:\LOL_backup\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\ChampionDetails\PropertyValueLabel.baml
+D:\LOL_backup\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\MainWindow.g.cs
+D:\LOL_backup\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\BarChart\BarChart.g.cs
+D:\LOL_backup\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\ChampCard.g.cs
+D:\LOL_backup\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\ChampInfoOnMainPage.g.cs
+D:\LOL_backup\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\ChampionDetails\ChampionInfoPage.g.cs
+D:\LOL_backup\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\ChampionDetails\PropertyValueLabel.g.cs
+D:\LOL_backup\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\ChampionDetails\StatsFrame.g.cs
+D:\LOL_backup\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\MainWindowPage.g.cs
+D:\LOL_backup\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\App.g.cs
+D:\LOL_backup\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\LOL_backup\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12_MarkupCompile.cache
+D:\LOL_backup\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12_MarkupCompile.lref
+D:\LOL_backup\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\MainWindow.baml
+D:\LOL_backup\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\ChampInfoOnMainPage.baml
+D:\LOL_backup\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\ChampionDetails\ChampionInfoPage.baml
+D:\LOL_backup\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\ChampionDetails\StatsFrame.baml
+D:\LOL_backup\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\MainWindowPage.baml
+D:\LOL_backup\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12.g.resources
+D:\LOL_backup\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12.Properties.Resources.resources
+D:\LOL_backup\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12.csproj.GenerateResource.Cache
+D:\LOL_backup\br\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\bin\Debug\LoL_URF_HybridStats_vs12.exe.config
+D:\LOL_backup\br\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12.exe
+D:\LOL_backup\br\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12.pdb
+D:\LOL_backup\br\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\bin\Debug\LoL_URF_HybridStats_vs12.exe
+D:\LOL_backup\br\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\bin\Debug\LoL_URF_HybridStats_vs12.pdb
+D:\LOL_backup\br\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\bin\Debug\RiotSharp.dll
+D:\LOL_backup\br\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\bin\Debug\Newtonsoft.Json.dll
+D:\LOL_backup\br\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\bin\Debug\RiotSharp.pdb
+D:\LOL_backup\br\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\bin\Debug\Newtonsoft.Json.xml
+D:\LOL_backup\br\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12.csprojResolveAssemblyReference.cache
+D:\LOL_backup\br\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\Styles\BlackCrystal.baml
+D:\LOL_backup\br\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\BarChart\BarChart.baml
+D:\LOL_backup\br\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\ChampCard.baml
+D:\LOL_backup\br\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\ChampionDetails\PropertyValueLabel.baml
+D:\LOL_backup\br\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\MainWindow.g.cs
+D:\LOL_backup\br\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\BarChart\BarChart.g.cs
+D:\LOL_backup\br\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\ChampCard.g.cs
+D:\LOL_backup\br\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\ChampInfoOnMainPage.g.cs
+D:\LOL_backup\br\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\ChampionDetails\ChampionInfoPage.g.cs
+D:\LOL_backup\br\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\ChampionDetails\PropertyValueLabel.g.cs
+D:\LOL_backup\br\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\ChampionDetails\StatsFrame.g.cs
+D:\LOL_backup\br\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\MainWindowPage.g.cs
+D:\LOL_backup\br\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\App.g.cs
+D:\LOL_backup\br\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\LOL_backup\br\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12_MarkupCompile.cache
+D:\LOL_backup\br\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12_MarkupCompile.lref
+D:\LOL_backup\br\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\MainWindow.baml
+D:\LOL_backup\br\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\ChampInfoOnMainPage.baml
+D:\LOL_backup\br\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\ChampionDetails\ChampionInfoPage.baml
+D:\LOL_backup\br\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\ChampionDetails\StatsFrame.baml
+D:\LOL_backup\br\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\MainWindowPage.baml
+D:\LOL_backup\br\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12.g.resources
+D:\LOL_backup\br\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12.Properties.Resources.resources
+D:\LOL_backup\br\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12.csproj.GenerateResource.Cache
+D:\LOL_backup\br\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\GlobalStatsPage.baml
+D:\LOL_backup\br\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\GlobalStatsPage.g.cs
+D:\LOL_backup\br\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\ChampionInfoControl.baml
+D:\LOL_backup\br\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\ChampionInfoControl.g.cs
+D:\LoL URF\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\bin\Debug\LoL_URF_HybridStats_vs12.exe.config
+D:\LoL URF\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12.exe
+D:\LoL URF\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12.pdb
+D:\LoL URF\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\bin\Debug\LoL_URF_HybridStats_vs12.exe
+D:\LoL URF\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\bin\Debug\LoL_URF_HybridStats_vs12.pdb
+D:\LoL URF\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\bin\Debug\RiotSharp.dll
+D:\LoL URF\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\bin\Debug\Newtonsoft.Json.dll
+D:\LoL URF\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\bin\Debug\RiotSharp.pdb
+D:\LoL URF\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\bin\Debug\Newtonsoft.Json.xml
+D:\LoL URF\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12.csprojResolveAssemblyReference.cache
+D:\LoL URF\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\Styles\BlackCrystal.baml
+D:\LoL URF\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\BarChart\BarChart.baml
+D:\LoL URF\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\ChampCard.baml
+D:\LoL URF\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\GlobalStatsPage.baml
+D:\LoL URF\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\MainWindow.g.cs
+D:\LoL URF\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\BarChart\BarChart.g.cs
+D:\LoL URF\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\ChampCard.g.cs
+D:\LoL URF\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\GlobalStatsPage.g.cs
+D:\LoL URF\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\MainWindowPage.g.cs
+D:\LoL URF\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\App.g.cs
+D:\LoL URF\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\LoL URF\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12_MarkupCompile.cache
+D:\LoL URF\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12_MarkupCompile.lref
+D:\LoL URF\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\MainWindow.baml
+D:\LoL URF\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\MainWindowPage.baml
+D:\LoL URF\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12.g.resources
+D:\LoL URF\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12.Properties.Resources.resources
+D:\LoL URF\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\LoL_URF_HybridStats_vs12.csproj.GenerateResource.Cache
+D:\LoL URF\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\bin\Debug\WpfCharts.dll
+D:\LoL URF\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\bin\Debug\WpfCharts.pdb
+D:\LoL URF\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\BarChartControl.g.cs
+D:\LoL URF\LoL_URF_HybridStats_vs12\LoL_URF_HybridStats_vs12\obj\Debug\UI_Controls\BarChartControl.baml

@@ -1,0 +1,12 @@
+C:\Users\Marko\Desktop\Charts\SpiderChart\WpfCharts\bin\Debug\WpfCharts.dll
+C:\Users\Marko\Desktop\Charts\SpiderChart\WpfCharts\bin\Debug\WpfCharts.pdb
+C:\Users\Marko\Desktop\Charts\SpiderChart\WpfCharts\obj\Debug\WpfCharts.csprojResolveAssemblyReference.cache
+C:\Users\Marko\Desktop\Charts\SpiderChart\WpfCharts\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Marko\Desktop\Charts\SpiderChart\WpfCharts\obj\Debug\WpfCharts_MarkupCompile.cache
+C:\Users\Marko\Desktop\Charts\SpiderChart\WpfCharts\obj\Debug\WpfCharts_MarkupCompile.lref
+C:\Users\Marko\Desktop\Charts\SpiderChart\WpfCharts\obj\Debug\Themes\Generic.baml
+C:\Users\Marko\Desktop\Charts\SpiderChart\WpfCharts\obj\Debug\WpfCharts.g.resources
+C:\Users\Marko\Desktop\Charts\SpiderChart\WpfCharts\obj\Debug\WpfCharts.Properties.Resources.resources
+C:\Users\Marko\Desktop\Charts\SpiderChart\WpfCharts\obj\Debug\WpfCharts.csproj.GenerateResource.Cache
+C:\Users\Marko\Desktop\Charts\SpiderChart\WpfCharts\obj\Debug\WpfCharts.dll
+C:\Users\Marko\Desktop\Charts\SpiderChart\WpfCharts\obj\Debug\WpfCharts.pdb

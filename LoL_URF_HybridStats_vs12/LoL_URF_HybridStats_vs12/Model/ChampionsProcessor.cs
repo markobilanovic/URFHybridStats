@@ -25,7 +25,7 @@ using RiotSharp.StaticDataEndpoint;
 public class ChampionsProcessor : ISerializable
 {
 
-    private string apiKey = "6d866a5a-716c-4b87-8b32-7d6080aa3770";
+    private string apiKey = "";
     private ObservableDictionary<int, ChampionStats> champs;
     public int noOfMatches;
 

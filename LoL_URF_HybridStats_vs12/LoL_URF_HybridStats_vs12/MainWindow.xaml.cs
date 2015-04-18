@@ -27,7 +27,7 @@ namespace LoL_URF_HybridStats_vs12
     /// </summary>
     public partial class MainWindow : Window
     {
-        private string apiKey = "6d866a5a-716c-4b87-8b32-7d6080aa3770";
+        private string apiKey = "";
 
         private ChampionsProcessor processor;
 

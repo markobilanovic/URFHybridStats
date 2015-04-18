@@ -28,8 +28,8 @@ namespace LoL_URF_HybridStats_vs12.UI_Controls
     /// </summary>
     public partial class MainWindowPage : UserControl
     {
-        private string apiKey = "6d866a5a-716c-4b87-8b32-7d6080aa3770";
-        private string apiKey2 = "6ed1ec8e-337c-4784-a990-99259d8e6c6b";
+        private string apiKey = "";
+        private string apiKey2 = "";
         
 
         private ChampionsProcessor processor;

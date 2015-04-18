@@ -23,3 +23,14 @@ In the middle, there is a drop-down menu that contains filters for most kills pe
 Finally, at the top of the screen there is a button that leads us to the second window.
 
 Second window contains a map of the world with the most notable heroes during ultra rapid fire mode. When you hover over heroes siluete it shows some interesting stats and a little something about heroes background. Shaco you will find more difficult to catch since he was more difficult to catch during this mode :)
+
+
+##Other stuff
+Project descriptions:
+1. LoL_URF_HybridStats_vs12 - main application
+2. GetURFMatches - script that has been used for collecting matche ids
+
+Makers of this ultra mega giga rapid application description:
+1. Levai Aleksandar
+2. Bilanovic Marko
+

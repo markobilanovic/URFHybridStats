@@ -6,7 +6,7 @@ Data has been calculated based on 310.666 matches from all servers.
 
 #Requirements
 Windows XP, Windows 7, Windows 8
-.NET 4
+.NET 4.5
 
 ##How to run
 Just open application on this path:

@@ -5,7 +5,7 @@ URF Hybrid Stats is there to show most eficient and least eficient champions dur
 Data has been calculated based on 310.666 matches from all servers. 
 
 #Requirements
-Windows XP, Windows 7, Windows 8
+Windows 7, Windows 8
 .NET 4.5
 
 ##How to run
@@ -34,3 +34,5 @@ Makers of this ultra mega giga rapid application description:
 1. Levai Aleksandar
 2. Bilanovic Marko
 
+
+URF Hybrid Stats isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing League of Legends. League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc.
